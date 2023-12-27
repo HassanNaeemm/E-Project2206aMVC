@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ASP2206a.Models.ImageModel>
+
+@{
+    ViewData["Title"] = "ProductShow";
+    Layout = "~/Views/Shared/admin_header_footer.cshtml";
+}
+
+<h1>Users Information </h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div class="row">
+@foreach(var item in Model)
+{
+    
+       <div class="col-lg-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="~/Gallery/@Html.DisplayFor(modelItem => item.image)" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title"> @Html.DisplayFor(modelItem => item.name)</h5>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.email)</p>
+                    <a asp-action="userdetails" class="btn btn-primary" asp-route-id="@item.id">Show Details</a>
+                </div>
+            </div>
+       </div>
+   
+}
+</div>

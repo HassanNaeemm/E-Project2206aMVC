@@ -1,0 +1,27 @@
+﻿@model ASP2206a.Models.ImageModel
+
+@{
+    ViewData["Title"] = "userdetails";
+    Layout = "~/Views/Shared/admin_header_footer.cshtml";
+}
+
+<h1>userdetails</h1>
+
+<div>
+    <h4>ImageModel</h4>
+    <hr />
+   <div class="row">
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="~/Gallery/@Html.DisplayFor(model => model.image)" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">@Html.DisplayFor(model => model.name)</h5>
+                <p class="card-text"> @Html.DisplayFor(model => model.email)</p>
+                <a href="#" class="btn btn-danger">Delete User</a>
+            </div>
+        </div>
+   </div>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.id">Edit</a> |
+    <a asp-action="ProductShow">Back to List</a>
+</div>

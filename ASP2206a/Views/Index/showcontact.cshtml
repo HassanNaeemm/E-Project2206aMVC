@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ASP2206a.Models.contactmodel>
+
+@{
+    ViewData["Title"] = "showcontact";
+    Layout = "~/Views/Shared/header_footer.cshtml";
+}
+
+
+
+
+<div class="container">
+    <h1>User Record</h1>
+    <p>
+        <a asp-action="Contact">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.username)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.lastname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.message)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.username)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.lastname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.message)
+                    </td>
+                    <td>
+                        <a asp-action="showrec" asp-route-id="@item.contactid">Edit</a> |
+                        <a asp-action="detailsuser" asp-route-id="@item.contactid">Details</a> |
+                        <a asp-action="deletecontact" asp-route-id="@item.contactid">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

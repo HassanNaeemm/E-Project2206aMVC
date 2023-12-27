@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP2206a
+build_property.RootNamespace = ASP2206a
+build_property.ProjectDir = C:\Users\Administrator\Desktop\MVC Core Files\Proper MVC Project\ASP2206a\ASP2206a\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\MVC Core Files\Proper MVC Project\ASP2206a\ASP2206a
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Admin/ProductShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcQWRtaW5cUHJvZHVjdFNob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/insertuser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcaW5zZXJ0dXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcU2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcU2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Index/Thankyou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcSW5kZXhcVGhhbmt5b3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Shared/admin_header_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcU2hhcmVkXGFkbWluX2hlYWRlcl9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Shared/header_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcU2hhcmVkXGhlYWRlcl9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/ASP2206a/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QVNQMjIwNmFcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Contact2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcQ29udGFjdDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/detailsuser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcZGV0YWlsc3VzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcU2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcU2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/showcontact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcc2hvd2NvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/showrec.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcc2hvd3JlYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Index/Thankyou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXhcVGhhbmt5b3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Shared/header_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGhlYWRlcl9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/MVC Core Files/Proper MVC Project/ASP2206a/ASP2206a/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
